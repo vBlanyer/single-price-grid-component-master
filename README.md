@@ -1,6 +1,6 @@
 # Frontend Mentor - Single price grid component
 
-git remote add origin https://github.com/vBlanyer/single-price-grid-component-master.git
+https://vblanyer.github.io/single-price-grid-component-master/
 
 ![Design preview for the Single price grid component coding challenge](./design/desktop-preview.jpg)
 
